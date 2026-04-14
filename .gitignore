@@ -15,6 +15,7 @@ target/
 .idea/
 out/
 .DS_Store
+*.db
 
 ### Eclipse ###
 .apt_generated
